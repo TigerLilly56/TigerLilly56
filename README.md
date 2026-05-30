@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TigerLilly56
 - 👀 I’m interested in all things coding
-- 🌱 I’m currently learning Mobile First responsive web design
+- 🌱 I’m currently relearning Assembly language
+- I can assist with HTML, CSS, and other web programming
 - 💞️ I’m looking to collaborate on nothing at the moment as I don't know enough to be helpful
 - 📫 How to reach me tch.primary@gmail.com
 
